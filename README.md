@@ -330,7 +330,3 @@ The analysis provides a structured view of customer spending, product preference
 ### Technical Skills
 
 `Python` `SQL` `PostgreSQL` `Power BI` `Excel` `Tableau`
-
----
-
-**Actionable business recommendations**
