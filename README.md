@@ -267,19 +267,19 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 │   └── Python data cleaning, EDA & feature engineering
 │
-├── sql_10.sql
+├── Behavior_Analysis.sql
 │   └── PostgreSQL business analysis queries
 │
 ├── Customer_Behavior_Dashboard.pbix
 │   └── Interactive Power BI dashboard
 │
-├── Customer Shopping Behavior Analysis.pdf
+├── Customer Behavior Analysis Report.pdf
 │   └── Detailed project report
 │
-├── Customer-Shopping-Behavior-Analysis.pptx
+├── Customer_Behavior_Analysis_Presentation.pptx
 │   └── Project presentation
 │
-├── Business Problem Document.pdf
+├── Business Problem Statement.pdf
 │   └── Business problem and project requirements
 │
 └── README.md
