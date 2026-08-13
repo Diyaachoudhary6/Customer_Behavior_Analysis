@@ -51,47 +51,6 @@ The analysis focuses on understanding how factors such as **discounts, reviews, 
 
 ---
 
-# 🛠️ Tools & Technologies
-
-### Python
-
-* Pandas
-* NumPy
-* Jupyter Notebook
-* Exploratory Data Analysis
-* Data Cleaning
-* Feature Engineering
-
-### Database
-
-* PostgreSQL
-* pgAdmin
-
-### SQL
-
-* Aggregations
-* GROUP BY
-* CASE statements
-* Subqueries
-* CTEs
-* Window Functions
-* Ranking
-* Business-oriented SQL analysis
-
-### Visualization
-
-* Microsoft Power BI
-* Interactive Dashboard
-* KPI and business insights visualization
-
-### Documentation & Presentation
-
-* PowerPoint
-* PDF Report
-* GitHub
-
----
-
 # 🔄 Project Workflow
 
 ![Data Analytics](https://github.com/Diyaachoudhary6/Customer_Behavior_Analysis/blob/main/Image/Project%20Workflow.png)
