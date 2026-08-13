@@ -2,6 +2,16 @@
 
 ## 📌 Project Overview
 
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases across 18 columns**. The objective is to identify spending patterns, customer segments, product preferences, subscription behavior, and purchase drivers to support data-driven business decisions.
 
 The project follows a complete end-to-end data analytics workflow:
@@ -38,36 +48,6 @@ The analysis focuses on understanding how factors such as **discounts, reviews, 
 | Total Columns   |            18 |
 | Missing Values  |            37 |
 | Missing Data    | Review Rating |
-
-### Key Dataset Features
-
-The dataset contains information related to:
-
-**Customer Demographics**
-
-* Customer ID
-* Age
-* Gender
-* Location
-* Subscription Status
-
-**Purchase Information**
-
-* Item Purchased
-* Category
-* Purchase Amount
-* Season
-* Size
-* Color
-
-**Shopping Behavior**
-
-* Discount Applied
-* Promo Code Used
-* Previous Purchases
-* Frequency of Purchases
-* Review Rating
-* Shipping Type
 
 ---
 
