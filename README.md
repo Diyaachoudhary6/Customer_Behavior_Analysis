@@ -370,29 +370,6 @@ Business Insights
        ↓
 Strategic Recommendations
 ```
-
----
-
-# 🎓 Skills Demonstrated
-
-This project demonstrates practical experience in:
-
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Transformation
-* Feature Engineering
-* Python / Pandas
-* SQL
-* PostgreSQL
-* Business Intelligence
-* Power BI
-* Data Visualization
-* Customer Segmentation
-* Revenue Analysis
-* Customer Behavior Analysis
-* Business Problem Solving
-* Data-Driven Decision Making
-
 ---
 
 # 📌 Project Outcome
@@ -415,12 +392,4 @@ The analysis provides a structured view of customer spending, product preference
 
 ---
 
-## ⭐ Project Highlights
-
-**3,900+ transactions analyzed**
-**18 data columns**
-**10 business questions answered using SQL**
-**Python-based data cleaning & feature engineering**
-**PostgreSQL database integration**
-**Interactive Power BI dashboard**
 **Actionable business recommendations**
