@@ -94,7 +94,7 @@ The analysis focuses on understanding how factors such as **discounts, reviews, 
 
 # 🔄 Project Workflow
 
-![Data Analytics](https://github.com/Diyaachoudhary6/SQL-data-warehouse-project/blob/main/docs/High%20Level%20Architecture.png)
+![Data Analytics](https://github.com/Diyaachoudhary6/Customer_Behavior_Analysis/blob/main/Image/Project%20Workflow.png)
 
 ## 1. Data Loading & Exploration — Python
 
