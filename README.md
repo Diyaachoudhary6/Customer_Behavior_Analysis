@@ -94,6 +94,8 @@ The analysis focuses on understanding how factors such as **discounts, reviews, 
 
 # 🔄 Project Workflow
 
+![Data Analytics](https://github.com/Diyaachoudhary6/SQL-data-warehouse-project/blob/main/docs/High%20Level%20Architecture.png)
+
 ## 1. Data Loading & Exploration — Python
 
 The raw dataset was imported using **Pandas** and initially explored to understand its structure, data types, summary statistics, and missing values.
